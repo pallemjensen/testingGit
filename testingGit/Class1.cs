@@ -4,7 +4,14 @@ using System.Text;
 
 namespace testingGit
 {
-    class Class1
+    public class Class1
     {
+        public static void Test()
+        {
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
+        }
+
+       
     }
 }
